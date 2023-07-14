@@ -1,2 +1,0 @@
-# wraithresume
-Wraith's resume
